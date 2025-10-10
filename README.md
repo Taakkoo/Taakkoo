@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Augusto
-3 anos de experiência na área de engenharia de transportes, em transição de carreira para a área de dados.
+3 anos de experiência na área de engenharia de transportes, analista de BI e dados.
 
 
 ### Detalhes
